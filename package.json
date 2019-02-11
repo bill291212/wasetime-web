@@ -1,8 +1,7 @@
 {
   "name": "WaseTime-Web",
   "version": "1.0.0",
-  "description":
-    "An unonfficial app for syllabus searching, classroom finding, and bus schedule checking at Waseda University.",
+  "description": "An unonfficial app for syllabus searching, classroom finding, and bus schedule checking at Waseda University.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
